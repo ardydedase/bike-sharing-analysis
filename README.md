@@ -30,3 +30,6 @@ console.log(minPredicatedValue + " to " + maxPredictedValue);
 
 For weather API
 http://api.openweathermap.org/data/2.5/forecast/daily?q=washington,usa&cnt=16&appid=b231606340553d9174136f7f083904b3&units=metric
+
+Weather condition map
+https://openweathermap.org/weather-conditions
