@@ -1,5 +1,6 @@
 
-// Cofficient to use
+
+```// Cofficient to use
 var chr = 3.095678;
 var choliday = -14.527039;
 var cweekday = 2.274601;
@@ -25,3 +26,4 @@ var minPredicatedValue = rawPredictedValue - ((1 - 0.89) * rawPredictedValue);
 var maxPredictedValue = rawPredictedValue + ((1 - 0.89) * rawPredictedValue);
 console.log(minPredicatedValue + " to " + maxPredictedValue);
 
+```
