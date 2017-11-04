@@ -2,13 +2,13 @@
 
 ```// Cofficient to use
 var chr = 3.095678;
-var choliday = -14.527039;
-var cweekday = 2.274601;
-var cweathersit = -12.239456;
-var ctemp = 335.339553;
-var catemp = 25.301369;
-var chum = -78.364862;
-var cwindspeed = -21.393127;
+var choliday = -14.527039; // Whether it is holiday or no
+var cweekday = 2.274601; // Day of the week
+var cweathersit = -12.239456; // 1 = Clear, 2 = Misty, 3 = Light rain or snow, 4 = heavy rain
+var ctemp = 335.339553 * 41; // Degree celsius
+var catemp = 25.301369 * 50; // Degree celsius
+var chum = -78.364862 * 100; // %
+var cwindspeed = -21.393127 * 67; // mph 
 
 // Using linear regression to calculate the raw value
 var rawPredictedValue = 
@@ -27,3 +27,9 @@ var maxPredictedValue = rawPredictedValue + ((1 - 0.89) * rawPredictedValue);
 console.log(minPredicatedValue + " to " + maxPredictedValue);
 
 ```
+
+For weather API
+http://api.openweathermap.org/data/2.5/forecast/daily?q=washington,usa&cnt=16&appid=b231606340553d9174136f7f083904b3&units=metric
+
+Weather condition map
+https://openweathermap.org/weather-conditions
