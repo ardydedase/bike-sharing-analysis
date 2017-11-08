@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fd91bf7-6f8b-4a25-a269-a971e29715dd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MachineLearningCA.ipynb" afterPath="$PROJECT_DIR$/MachineLearningCA.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/MachineLearningCA.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="26" />
+              <selected id="29" />
             </state>
           </provider>
         </entry>
@@ -375,7 +374,7 @@
     <entry file="file://$PROJECT_DIR$/MachineLearningCA.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="26" />
+          <selected id="29" />
         </state>
       </provider>
     </entry>
