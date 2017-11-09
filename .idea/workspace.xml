@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fd91bf7-6f8b-4a25-a269-a971e29715dd" name="Default" comment="" />
+    <list default="true" id="5fd91bf7-6f8b-4a25-a269-a971e29715dd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MachineLearningCA.ipynb" afterPath="$PROJECT_DIR$/MachineLearningCA.ipynb" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/MachineLearningCA.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="27" />
+              <selected id="42" />
             </state>
           </provider>
         </entry>
@@ -236,7 +239,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="0" width="1932" height="1048" extended-state="0" />
+    <frame x="-9" y="0" width="1932" height="1048" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -285,6 +288,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MachineLearningCA.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bike-Sharing-Dataset/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" column="33" lean-forward="false" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearningCA.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -391,7 +409,7 @@
     <entry file="file://$PROJECT_DIR$/MachineLearningCA.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="37" />
+          <selected id="42" />
         </state>
       </provider>
     </entry>
