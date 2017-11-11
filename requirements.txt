@@ -4,3 +4,5 @@ pandas==0.20.3
 IPython==6.2.1
 seaborn==0.8.1
 jupyter==1.0.0
+scipy
+scikit-learn
