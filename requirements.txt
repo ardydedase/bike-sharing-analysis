@@ -1,9 +1,15 @@
 numpy==1.13.3
 matplotlib==2.1.0
 pandas==0.20.3
-IPython==6.2.1
+IPython==8.10.0
 seaborn==0.8.1
 jupyter==1.0.0
 scipy
 scikit-learn
 pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
+prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
